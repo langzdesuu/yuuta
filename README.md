@@ -4,7 +4,6 @@
 
 ## Features
 - Interaction support.
-- Configurable, and easy to use.
 - Basic music and moderation commands.
 
 ## Project Contributors
